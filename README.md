@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Allow me to introduce myself, my name is **Nur Cahyo Tio Nugroho**.\
+
+I'm a **Machine Learning Enthusiast** on
+
+i am interested in machine learning from independent studies [Certificate from Ai for Startups Power Academy](https://drive.google.com/file/d/1QjyF5W7M2G9_PgeYNhKqbps8MKlmd4Ww/view).\
+
+If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/nur-cahyo-tio-nugroho-196125258/).
 <!--
 **tio-ngr/tio-ngr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
