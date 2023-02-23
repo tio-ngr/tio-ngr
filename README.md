@@ -2,7 +2,7 @@
 
 Allow me to introduce myself, my name is **Nur Cahyo Tio Nugroho**.
 
-I'm a **Machine Learning Enthusiast** on
+I'm a **Machine Learning Enthusiast**
 
 i am interested in machine learning from independent studies [Certificate from Ai for Startups Power Academy](https://drive.google.com/file/d/1QjyF5W7M2G9_PgeYNhKqbps8MKlmd4Ww/view).
 
