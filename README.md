@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 Allow me to introduce myself, my name is **Nur Cahyo Tio Nugroho**.
+<br>
 I'm a **Machine Learning Enthusiast**
+<br>
 If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/nur-cahyo-tio-nugroho-196125258/) account.
 
 <p align="left">
