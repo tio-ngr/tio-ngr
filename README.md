@@ -6,7 +6,7 @@ I'm a **Machine Learning Enthusiast**
 
 i am interested in machine learning from independent studies [Certificate from Ai for Startups Power Academy](https://drive.google.com/file/d/1QjyF5W7M2G9_PgeYNhKqbps8MKlmd4Ww/view).
 
-If you are interested in getting to know me, please follow the account [Linkedin](https://www.linkedin.com/in/nur-cahyo-tio-nugroho-196125258/).
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/nur-cahyo-tio-nugroho-196125258/) account.
 
 <p align="left">
 <a href="https://github.com/tio-ngr">
