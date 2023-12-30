@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Allow me to introduce myself, my name is **Nur Cahyo Tio Nugroho**.
+My name is **Nur Cahyo Tio Nugroho**.
 <br>
 I'm a **Machine Learning Enthusiast**
 <br>
-If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/nur-cahyo-tio-nugroho-196125258/) account.
+If you are interested in getting to know me, please follow my [Linkedin](www.linkedin.com/in/tio-ngr) account.
 
 <p align="left">
 <a href="https://github.com/tio-ngr">
