@@ -2,7 +2,7 @@
 
 My name is **Nur Cahyo Tio Nugroho**.
 <br>
-I'm a **Machine Learning Enthusiast** from Indonesia <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8" width="13" />
+I'm a **Machine Learning Enthusiast** from <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8" width="13" />
 <br>
 
 ### GitHub Stats
