@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is **Nur Cahyo Tio Nugroho**.
-<br>
+#My name is **Nur Cahyo Tio Nugroho**.
+<!-- <br>
 I'm a **Machine Learning Enthusiast** from <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8" width="13" />
-<br>
+<br> -->
 
 ### GitHub Stats
 <p align="left">
@@ -15,9 +15,9 @@ I'm a **Machine Learning Enthusiast** from <img src="https://github.githubassets
 
 ### Where to find me
 <p>
-    <a href="https://www.linkedin.com/in/tio-ngr">
+    <!-- <a href="https://www.linkedin.com/in/tio-ngr">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-    </a>
+    </a> -->
 <!--     <a href="https://www.twitter.com/bimarakajati">
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
     </a> -->
