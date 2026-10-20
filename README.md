@@ -10,8 +10,8 @@
 
 ### 🧰 Tech I work with
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,ts,js,tailwind,vite,go,php,python,postgres,mysql,docker,git,linux,vscode" alt="Tech stack" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,tailwind,vite,npm,go,php,dart,python,postgres,mysql,docker,git,linux,vscode" alt="Tech stack" />
 </p>
 
 &nbsp;
