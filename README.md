@@ -11,7 +11,7 @@
 ### 🧰 Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,ts,js,tailwind,vite,npm,go,php,dart,python,postgres,mysql,docker,git,linux" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,tailwind,vite,npm,go,dart,flutter,php,laravel,python,postgres,mysql,docker,git,linux" alt="Tech stack" />
 </p>
 
 &nbsp;
