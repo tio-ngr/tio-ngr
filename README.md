@@ -1,41 +1,40 @@
-### Hi there 👋
+<div align="center">
 
-<!-- My name is **Nur Cahyo Tio Nugroho**. -->
-<!-- <br>
-I'm a **Machine Learning Enthusiast** from <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1e9.png?v8" width="13" />
-<br> -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Hi%20there&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Hi there" />
 
-### GitHub Stats
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=520&lines=Building+things+with+Vue+%26+Go;Learning+in+public%2C+one+commit+at+a+time;Less+talk%2C+more+code" alt="Typing intro" />
+
+</div>
+
+&nbsp;
+
+### 🧰 Tech I work with
+
 <p align="left">
-<a href="https://github.com/tio-ngr">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tio-ngr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tio-ngr&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=vue,ts,js,tailwind,vite,go,php,python,postgres,mysql,docker,git,linux,vscode" alt="Tech stack" />
 </p>
 
-<!-- Where to find me -->
-<p>
-    <!-- <a href="https://www.linkedin.com/in/tio-ngr">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-    </a> -->
-<!--     <a href="https://www.twitter.com/bimarakajati">
-        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-    </a> -->
-    <!--<a href="https://www.instagram.com/tio.ngr/">
-        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
-    </a>-->
+&nbsp;
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <a href="https://github.com/tio-ngr">
+    <!-- <img height="180em" src="https://github-readme-stats-seven-ashy-82.vercel.app/api?username=tio-ngr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" /> -->
+    <img height="180em" src="https://github-readme-stats-seven-ashy-82.vercel.app/api/top-langs/?username=tio-ngr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
+  </a>
 </p>
-<!--
-**tio-ngr/tio-ngr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently
+
+- 🔭 Exploring full-stack: Vue/Quasar on the front, Go on the back
+- 🧪 Tinkering with small tools and project templates
+- 📚 Keeping a trail of experiments, notes, and half-finished ideas
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="" />
+
+</div>
