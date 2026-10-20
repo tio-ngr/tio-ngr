@@ -18,12 +18,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/tio-ngr">
-    <!-- <img height="180em" src="https://github-readme-stats-seven-ashy-82.vercel.app/api?username=tio-ngr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" /> -->
-    <img height="180em" src="https://github-readme-stats-seven-ashy-82.vercel.app/api/top-langs/?username=tio-ngr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" />
-  </a>
-</p>
+<a href="https://github.com/tio-ngr">
+  <!-- <img height="180em" src="https://github-readme-stats-seven-ashy-82.vercel.app/api?username=tio-ngr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" /> -->
+  <img width="100%" src="https://github-readme-stats-seven-ashy-82.vercel.app/api/top-langs/?username=tio-ngr&layout=compact&langs_count=8&card_width=520&theme=tokyonight&hide_border=true" alt="Top languages" />
+</a>
 
 &nbsp;
 
