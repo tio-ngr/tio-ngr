@@ -13,7 +13,7 @@ I'm a **Machine Learning Enthusiast** from <img src="https://github.githubassets
 </a>
 </p>
 
-<!-- Where to find me
+<!-- Where to find me -->
 <p>
     <!-- <a href="https://www.linkedin.com/in/tio-ngr">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
